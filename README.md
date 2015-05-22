@@ -12,6 +12,7 @@ Dev stack
 Libs and tools that actually run alongside your code.
 
 * *Web framework:* [Spark](http://sparkjava.com/)
+* *[JSONAPI](http://jsonapi.org/) support:* [Route builder DSL](https://github.com/dclucas/routeBuilderDSL) (WARNING: alpha state -- DSL and project name will likely change)
 * *Middleware:* [Apache Camel](http://camel.apache.org/)
 
 Wrapping tools
