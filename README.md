@@ -18,7 +18,11 @@ Wrapping tools
 --------------
 Stuff that runs outside your code, but make it so much easier to deal with.
 
-* *Build:* [Gradle](https://gradle.org/)
+* *Build:* 
+  - *Core:* [Gradle](https://gradle.org/)
+  - *CI:* Heroku buildpacks
+  - *Containerization:* Docker, buildstep
+  
 * *Test:*
   - *BDD:* [Cucumber for JVM](https://github.com/cucumber/cucumber-jvm)
   - *TDD:* [Spock](https://github.com/spockframework/spock) 
