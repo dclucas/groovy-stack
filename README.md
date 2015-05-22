@@ -12,7 +12,7 @@ Dev stack
 Libs and tools that actually run alongside your code.
 
 * *Web framework:* [Spark](http://sparkjava.com/)
-* *Reactive programming*: [RxGroovy](https://github.com/ReactiveX/RxGroovy)
+* *Middleware:* [Apache Camel](http://camel.apache.org/)
 
 Wrapping tools
 --------------
@@ -25,3 +25,10 @@ Stuff that runs outside your code, but make it so much easier to deal with.
   - *Coverage:* [JoCoCo](https://docs.gradle.org/current/userguide/jacoco_plugin.html)
 
 * *Scaffolding*: [Lazybones](https://github.com/pledbrook/lazybones)
+* *Runtime/tool versioning:* [GVM](http://gvmtool.net/)
+
+Candidates
+----------
+List of tools that are/will be evaluated for the stack:
+* *Reactive programming:* [RxGroovy](https://github.com/ReactiveX/RxGroovy)
+* *Database refactoring:* [Groovy Liquibase](https://github.com/tlberglund/groovy-liquibase)
